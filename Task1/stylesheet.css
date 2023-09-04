@@ -1,0 +1,268 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+body{
+    margin: 0%;
+    padding: 0%;
+    overflow-x: hidden;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    font-family: 'Montserrat';
+    background-color: #ffffff;
+    height: 80px;
+    justify-content: space-between;
+    justify-content: space-around;
+    
+}
+#logo{
+    display: flex;
+    align-items: center;
+}
+.homepagecall{
+    text-decoration: none;
+    color: #269E6C;
+    font-weight: 600;
+    font-family: 'Montserrat';
+    margin-left:5px ;
+    
+}
+.mtc{font-weight: 500;
+
+}
+.manifesto{
+    text-decoration: none;
+    color: black;
+    margin-left:400px ;
+}
+.team{
+    text-decoration: none;
+    color: black;
+    margin-left: 25px;
+}
+.careers{
+    text-decoration: none;
+    margin-left: 25px;
+    color: black;
+}
+.partofpineset{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:#fadcac ;
+    border-radius: 8px;
+    height:35px ;
+    /* width: 250px; */
+    box-shadow: 0 4px 2px -2px rgba(0, 0, 0, 0.2);
+}
+#partofpineset{
+    margin-left: 15px;
+    background-color:#fadcac ;
+    color: black;
+    text-decoration: none;
+}
+.arrow{
+    height: 10px;
+    margin-left: 10px;
+    margin-right: 15px;
+}
+.jw{
+    display: flex;
+    align-items: center;
+    background-color: #269E6C;
+    height: 35px;
+    border-radius: 8px;    
+}
+#jw{
+    text-decoration: none;
+    color: white;
+    margin-right: 15px;
+    margin-left: 15px;   
+}
+.sec1{
+    font-family: 'Merriweather';
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+}
+.save{
+    font-weight: 1000;
+    font-size: 50px;
+    margin-left: 50px;
+    
+}
+.byreduce{
+    margin-left: 50px;
+}
+.change{
+    margin-top: 1rem;
+    color: #269E6C;
+    font-weight: 601;
+    margin-left: 50px;
+    
+}
+.jwrm{
+    display: flex;
+    align-items: center;
+    margin-top: 1.2rem;
+    /* justify-content: center; */
+    
+
+}
+.jw1{
+    font-family: 'Montserrat';
+    display: flex;
+    align-items: center;
+    background-color: #269E6C;
+    height: 35px;
+    border-radius: 8px;    
+    width: 8rem;
+    margin-left: 3rem;
+    /* margin-top: 1rem; */
+}
+.rm{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #fadcac;
+    height: 35px;
+    border-radius: 0.5rem;
+    width: 18rem;
+    margin-left: 3rem;
+    margin-top: 12rerm;
+}
+.sec11{
+    margin-top: 10rem;
+
+}
+.sec2{
+    margin-top: 6rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: #FCF5F5;
+}
+.findout{
+    font-size: 1.1rem;
+    font-family: 'Merriweather';
+    font-weight: 600;
+}
+.imgcg{
+    margin-top: 2.5rem;
+    height: 30rem;
+}
+.gp{
+    font-size: 1.1rem;
+    font-family: 'Merriweather';
+    font-weight: 600;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    
+}
+.footer{
+    display: inline;
+    background-color: #ffffff;
+    justify-content: center;
+}
+.footer.footer{
+    background-color: #ffffff;
+
+}
+.jo{
+    text-align: center;
+    font-family: 'Montserrat';
+    margin-top: 5rem;
+}
+.bo{
+    text-align: center;
+    display: flex;
+    font-family: 'Montserrat';
+    justify-content: center;
+    font-weight: 600;
+}
+.email{
+    height:2.5rem;
+    width: 50rem;
+    margin-top: 2rem;
+}
+.name{
+    height:2.5rem;
+    width: 50rem;
+    margin-top: 1.5rem;
+}
+.msg{
+    
+    height:4rem;
+    width: 50rem;
+    margin-top: 1.5rem;
+}
+.input{
+    text-align: center;
+    display: flex;
+    display: block;
+    
+}
+.jn{
+    /* display: block; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #269E6C;
+    color: #ffffff;
+    font-family: 'Montserrat';
+    border-radius: 0.4rem;
+    width: 50rem;
+    margin: 0% auto;
+    height: 2rem;
+    font-weight: 500;
+    margin-top: 4rem;
+
+}
+.ls{
+    height: 15rem;
+    margin-left:72.6rem ;
+    margin-top: -10rem;
+}
+.ml{
+    text-align: center;
+}
+.hmtc{
+    margin-top: 5%;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    margin:1.5rem 20rem  ;
+}
+#hmtc{
+    text-decoration: none;
+    font-family: 'Montserrat';
+    font-weight: 600;
+    color: #269E6C;
+}
+.imgsm{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2rem;
+}
+.imgsm a{
+    display: inline;
+    margin: 1rem 1rem ;
+}
+.leaf1{
+    margin-right: auto;
+    height: 10rem;
+}
+.leaf2{
+    height: 10rem;
+    margin-left: auto;
+}
+#leaf2{
+    display: flex;
+
+
+}
+.df{
+    display: flex;
+    justify-content: center;
+    margin-bottom: -3rem;
+}
